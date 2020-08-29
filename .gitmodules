@@ -1,0 +1,6 @@
+[submodule "ztk"]
+	path = ztk
+	url = git@github.com:anderspkd/ztk.git
+[submodule "ncomm"]
+	path = ncomm
+	url = https://github.com/anderspkd/ncomm
